@@ -2,8 +2,9 @@
 A Recurrent Neural Network (LSTM) implementation example using TensorFlow library.
 This example is work on the gesture recognition benchmark created by Chunyu & Baochang, etc. 
     Chunyu Xie, Shangzhen Luan, Hainan Wang, Baochang Zhang: Gesture Recognition Benchmark Based on Mobile Phone. CCBR 2016: 432-440
-Long Short Term Memory paper: http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
+Long Short Term Memory paper: Hochreiter S, Schmidhuber J. Long short-term memory[J]. Neural computation, 1997, 9(8): 1735-1780.
 
+******************************About author*************************************
 Author: Zijian Zhao
 E-mail: zhaozijian@buaa.edu.cn
 
