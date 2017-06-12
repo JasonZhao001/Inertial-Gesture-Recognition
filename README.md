@@ -25,7 +25,7 @@ ________________
    
    ** the argparse is added for your performing the test process straightly.
    
-******************************Notes********************************************
+##### Notes:
 
 1. The data is divided into 120*8 training set and 20*8 testing set.
 
